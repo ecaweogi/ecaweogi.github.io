@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecaweogi.github.io/IpU/sitemap_index.txt
+Sitemap: https://ecaweogi.github.io/UpD/sitemap_index.txt
+Sitemap: https://ecaweogi.github.io/oVN/sitemap_index.txt
+Sitemap: https://ecaweogi.github.io/ois/sitemap_index.txt
